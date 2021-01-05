@@ -1,3 +1,9 @@
-const para = document.querySelector(".oara");
+const para = document.querySelector(".para");
 console.log(para);
-prompt("entre your name");
+const name = prompt("entre your name");
+
+console.log(name);
+
+// first 
+
+
